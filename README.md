@@ -45,7 +45,9 @@ python main.py
 ```
 That's it! 
 
-### Give Folder Path 
-![image](https://github.com/user-attachments/assets/8589125c-4dda-49f4-8c59-2f344955a01d)
+### Demo 
+https://github.com/user-attachments/assets/4e6519ca-d436-453a-9a50-1602ce9cdcb2
+
+
 
 Now it will go through all the folders, sub-folders, read files and in output you will get which folder, file, sub folder or content in file is missing, now its your take you want to add it into your folder or not
